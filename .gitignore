@@ -13,9 +13,7 @@ hf_cache/
 *.lock
 
 # === Checkpoints d'entrainement ===
-checkpoint-*/
-runs/
-wandb/
+
 
 # === Python ===
 __pycache__/
